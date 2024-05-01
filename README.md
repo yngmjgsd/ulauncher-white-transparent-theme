@@ -1,6 +1,6 @@
 # ulauncher-white-transparent-theme
 
-White transparent theme for ulauncher. There are two themes with red and blue match colors.
+White transparent theme for ulauncher. There are two themes with red and blue match colors. This is a slightly modified ulauncher light theme.
 
 ## Preview
 
