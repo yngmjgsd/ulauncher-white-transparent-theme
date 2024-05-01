@@ -4,7 +4,9 @@ White transparent theme for for ulauncher. There are two themes with red and blu
 
 ## Preview
 
+![Blue-Match](https://github.com/yngmjgsd/ulauncher-white-transparent-theme/assets/115377018/ab3128e8-8f42-485e-9259-d8064e431869)
 
+![Red-Match](https://github.com/yngmjgsd/ulauncher-white-transparent-theme/assets/115377018/3947effb-4d59-4dc8-92dd-62725f39d8e3)
 
 ## Installing
 
